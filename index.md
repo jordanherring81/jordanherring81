@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Jordan
 
 You can use the [editor on GitHub](https://github.com/jordanherring81/jordanherring81/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
