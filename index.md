@@ -4,4 +4,4 @@
 
 *Robert Mattis*
 
-![mattis](https://en.wikipedia.org/wiki/Jim_Mattis#/media/File:James_Mattis_official_photo.jpg)
+![mattis](https://github.com/jordanherring81/jordanherring81/blob/master/Jim.jpg)
