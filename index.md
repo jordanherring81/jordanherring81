@@ -1,4 +1,4 @@
-theme: jekyll-theme-hacker
+
 ## Jordan
 
 "Make a plan to kill everyone you meet".
